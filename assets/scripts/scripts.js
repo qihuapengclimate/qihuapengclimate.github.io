@@ -7,7 +7,7 @@ $(document).ready(function () {
     localStorage.setItem("lang", "en");
   }
 
-  if (lang === "中文") {
+  if (lang === "fa") {
     document.getElementById("content_wrapper").classList.add("rtl_wrapper");
     if (
       document.getElementById("languageIcon") &&
