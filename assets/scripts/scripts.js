@@ -8,7 +8,7 @@ $(document).ready(function () {
   }
 
   if (lang === "fa") {
-    document.getElementById("content_wrapper").classList.add("rtl_wrapper");
+    document.getElementById("content_wrapper").classList.add("ltr_wrapper");
     if (
       document.getElementById("languageIcon") &&
       document.getElementById("languageText")
@@ -24,7 +24,7 @@ $(document).ready(function () {
       document.getElementById("languageText")
     ) {
       document.getElementById("languageIcon").src =
-        "../assets/images/icons/ir.png";
+        "../assets/images/icons/ch.png";
       document.getElementById("languageText").innerText = "中文";
     }
   }
