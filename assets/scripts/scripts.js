@@ -7,7 +7,7 @@ $(document).ready(function () {
     localStorage.setItem("lang", "en");
   }
 
-  if (lang === "fa") {
+  if (lang === "中文") {
     document.getElementById("content_wrapper").classList.add("rtl_wrapper");
     if (
       document.getElementById("languageIcon") &&
@@ -25,7 +25,7 @@ $(document).ready(function () {
     ) {
       document.getElementById("languageIcon").src =
         "../assets/images/icons/ir.png";
-      document.getElementById("languageText").innerText = "FA";
+      document.getElementById("languageText").innerText = "中文";
     }
   }
 
