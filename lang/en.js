@@ -1,6 +1,6 @@
 // ---------- Navbar titles
 const enNavbarData = {
-  title: " Your name ",
+  title: " Qihua Peng ",
   Home: "Home",
   publications: "publications",
   Research: "Research",
@@ -10,8 +10,8 @@ const enNavbarData = {
 
 // ---------- Home page data
 const enHomePageData = {
-  name: " Your name ",
-  jobTitle: " Job title ",
+  name: " Qihua Peng ",
+  jobTitle: " Postdoctoral Researcher at Scripps Institution of Oceanography, UC San Diego ",
   home_title: "About me",
   home_content: `
   <div>
