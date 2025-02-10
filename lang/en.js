@@ -241,10 +241,9 @@ const enResearchPageData = {
     </div>
   `,
 };
-
 // ---------- Jobs page data
 const enJobsPageData = {
-  title: "CV",
+  title: "Education",
   items: [
     {
       title: `Ph.D.`,
@@ -254,15 +253,17 @@ const enJobsPageData = {
       location: "Gunangzhou",
       abstract:
         "Major: Physical Oceanography",
+      achievements: [""],
     },
     {
       title: `Joint Ph.D. student`,
       company: "Scripps Institution of Oceanography, UC San Diego",
       startData: "September 2016",
       endDate: "September 2018",
-      location: "Gunangzhou",
+      location: "San Diego",
       abstract:
         "Major: Physical Oceanography",
+      achievements: [""],
     },
   ],
 };
