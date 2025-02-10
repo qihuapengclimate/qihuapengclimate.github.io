@@ -216,7 +216,7 @@ const enPublicationsPageData = {
     },
   ],
 
-  type_three_title:"",
+  type_three_title:"Books",
   type_three_items: [
     {
       title:``,
@@ -296,7 +296,7 @@ const enJobsPageData = {
       achievements: ["achievement 1", "achievement 2", "achievement 3"],
     },
     {
-      title: `Job title`,
+      title: ``,
       company: "Company name",
       startData: "20 April 2019",
       endDate: "",
