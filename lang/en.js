@@ -16,6 +16,7 @@ const enHomePageData = {
   home_content: `
   <div>
     <p>I am a postdoctoral researcher at Scripps Institution of Oceanography, UC San Diego. My academic journey began with a B.Sc. in Ocean Sciences from Nanjing University’s School of Physics (July 2013), leading to a Ph.D. in Physical Oceanography from the South China Sea Institute of Oceanology, Chinese Academy of Sciences (July 2019). Between 2016 and 2018, I conducted research as a joint Ph.D. student at Scripps Institution of Oceanography.</li> 
+    <p>  </p>
     I am interested in the dynamics of atmospheric circulation and ocean-atmosphere interaction. My research focuses on the climate dynamics, emphasizing tropical air-sea interactions, ocean current variability and their changes under global warming.  I typically employ a combination of observational data analysis, realistic numerical experiments, and diagnostic approaches to investigate these topics.
     <h2 class='title'>  </h2>
     <p>  </p>
@@ -36,9 +37,11 @@ const enPublicationsPageData = {
   type_one_items: [
     {
       title: `Peng, Q., Xie, S.-P., & Deser, C., (2024). Collapsed upwelling weakens ENSO under sustained warming beyond the 21st century. Nature Climate Change, 14(8), 815-822.`,
+      abstract: ``,
+      date: "",
       link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kAKvj4IAAAAJ&sortby=pubdate&citation_for_view=kAKvj4IAAAAJ:_kc_bZDykSQC",
       github: "",
-      download: "",
+      writers: [],
     },
 
   ],
@@ -113,7 +116,7 @@ const enResearchPageData = {
 
 // ---------- Jobs page data
 const enJobsPageData = {
-  title: "Jobs",
+  title: "Gallery",
   items: [
     {
       title: `Job title`,
