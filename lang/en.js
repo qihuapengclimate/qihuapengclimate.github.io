@@ -274,8 +274,6 @@ const enResearchPageData = {
 
 // ---------- Jobs page data
 const enJobsPageData = {
-const en = {
-  // ...其他内容
   gallery: [
     {
       title: "日落海岸",
