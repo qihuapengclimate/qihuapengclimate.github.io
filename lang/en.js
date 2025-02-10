@@ -215,6 +215,16 @@ const enPublicationsPageData = {
       writers: [],
     },
   ],
+  type_three_title: " ",
+  type_three_items: [
+    {
+      title: ` `,
+      abstract: ``,
+      date: "",
+      link: "",
+      github: "",
+      writers: [],
+    },
 };
 
 // ---------- Research page data
@@ -245,6 +255,7 @@ const enJobsPageData = {
       abstract:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas purus viverra accumsan in nisl nisi. Arcu cursus vitae congue mauris rhoncus aenean vel elit scelerisque. In egestas erat imperdiet sed euismod nisi porta lorem mollis. Morbi tristique senectus et netus.",
       achievements: ["achievement 1", "achievement 2", "achievement 3"],
+      image: "../files/images/research.png", // 插入图片
     },
     {
       title: `Job title`,
