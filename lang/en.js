@@ -216,10 +216,10 @@ const enPublicationsPageData = {
     },
   ],
 
-  type_three_title: "Book Chapters",
+  type_three_title:"",
   type_three_items: [
     {
-      title: ` `,
+      title:``,
       abstract: ``,
       date: "",
       link: "",
@@ -227,16 +227,16 @@ const enPublicationsPageData = {
       writers: [],
     },
     {
-      title: ` `,
+      title: ``,
       abstract: ``,
-      date: " ",
+      date: "",
       link: "",
       github: "",
       writers: [""],
     },
   ],
 
-  type_four_title: "",
+  type_four_title:"",
   type_four_items: [
     {
       title: ``,
@@ -286,7 +286,7 @@ const enJobsPageData = {
   title: "Gallery",
   items: [
     {
-      title: `Job title`,
+      title: ``,
       company: "Company name",
       startData: "20 April 2019",
       endDate: "20 April 2022",
