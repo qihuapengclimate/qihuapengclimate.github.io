@@ -219,7 +219,7 @@ const enPublicationsPageData = {
   type_three_title: "Book Chapters",
   type_three_items: [
     {
-      title: `Elena Reinaga. 2016. If I were born again I would still be a sex worker. P. Purdy and N. Umansky. OpenDemocracy.`,
+      title: ` `,
       abstract: ``,
       date: "",
       link: "",
@@ -227,19 +227,19 @@ const enPublicationsPageData = {
       writers: [],
     },
     {
-      title: `“Now you are speaking my language” Language-specific transparency and legislative negotiations in the Council of Ministers of the European Union. (with ).`,
-      abstract: `we adopt an elite-focused approach to explore the ways in which left and right-leaning American political elites differ in their visual and emotional framing of climate change. Overall, this study provides new insight into how politicians across party lines communicate about critical and polarizing political issues, such as climate change, by adapting to novel online communication channels.`,
-      date: "1996",
-      link: "http://link.com",
-      github: "http://github.com",
-      writers: ["Claudio Cioffi-Revilla"],
+      title: ` `,
+      abstract: ``,
+      date: " ",
+      link: "",
+      github: "",
+      writers: [""],
     },
   ],
 
   type_four_title: "",
   type_four_items: [
     {
-      title: `Elena Reinaga. 2016. If I were born again I would still be a sex worker. P. Purdy and N. Umansky. OpenDemocracy.`,
+      title: ``,
       abstract: ``,
       date: "",
       link: "",
@@ -247,12 +247,12 @@ const enPublicationsPageData = {
       writers: [],
     },
     {
-      title: `“Now you are speaking my language” Language-specific transparency and legislative negotiations in the Council of Ministers of the European Union. (with ).`,
-      abstract: `we adopt an elite-focused approach to explore the ways in which left and right-leaning American political elites differ in their visual and emotional framing of climate change. Overall, this study provides new insight into how politicians across party lines communicate about critical and polarizing political issues, such as climate change, by adapting to novel online communication channels.`,
-      date: "1996",
-      link: "http://link.com",
-      github: "http://github.com",
-      writers: ["Claudio Cioffi-Revilla"],
+      title: ``,
+      abstract: ``,
+      date: "",
+      link: "",
+      github: "",
+      writers: [""],
     },
   ],
 };
@@ -267,6 +267,7 @@ const enResearchPageData = {
         <img src='../files/images/enso.png' />
         <br />
         <p>In addition to present-day ENSO dynamics, I have also investigated the responses of climate system to global warming. While ENSO variability displays diverse short-term changes, our results show a robust reduction in ENSO amplitude after 2100 due to weakened thermocline feedback, thermodynamic damping, and increased thermal expansion coefficients under sustained warming [6]. Furthermore, we have investigated how global warming influences ocean circulation. Our studies reveal that global upper-ocean circulation responses to anthropogenic forcing are primarily driven by surface warming. This mechanism accelerates upper subtropical gyres and equatorial currents by enhancing stratification and shoaling these current systems [7]. Additionally, we find that weakening of the Atlantic Meridional Overturning Circulation (AMOC) under global warming transmits coastal Kelvin waves to weaken the Indonesian Throughflow [8].</p>
+        <img src='../files/images/current.jpg' />
         <p>1. Peng, Q., Xie, S.-P., Wang, D., Zheng, X.-T., & Zhang, H. (2019). Coupled ocean-atmosphere dynamics of the 2017 extreme coastal El Niño. Nature Communications, 10(1), 298. </p>
         <p>2. Peng, Q., Xie, S.-P., Passalacqua, G., Miyamoto A., & Deser, C., (2024). The 2023 extreme coastal El Niño: Atmospheric and air-sea coupling mechanisms. Science Advances, 10(12).</p>
         <p>3. Xie, S.-P., Peng, Q.#(co-first author), Kamae, Y., Zheng, X.-T., Tokinaga, H., & Wang, D. (2018). Eastern Pacific ITCZ dipole and ENSO diversity. Journal of Climate, 31(11), 4449-4462. </p>
@@ -282,7 +283,7 @@ const enResearchPageData = {
 
 // ---------- Jobs page data
 const enJobsPageData = {
-  title: "Jobs",
+  title: "Gallery",
   items: [
     {
       title: `Job title`,
