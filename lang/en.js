@@ -215,30 +215,10 @@ const enPublicationsPageData = {
       writers: [],
     },
   ],
-  type_three_title: " ",
+  type_three_title: "",
   type_three_items: [
     {
-      title: ` `,
-      abstract: ``,
-      date: "",
-      link: "",
-      github: "",
-      writers: [],
-    },
-    {
-      title: ` `,
-      abstract: ``,
-      date: " ",
-      link: " ",
-      github: " ",
-      writers: [" "],
-    },
-  ],
-
-  type_four_title: "",
-  type_four_items: [
-    {
-      title: ` `,
+      title: ``,
       abstract: ``,
       date: "",
       link: "",
@@ -248,10 +228,30 @@ const enPublicationsPageData = {
     {
       title: ``,
       abstract: ``,
-      date: " ",
-      link: " ",
-      github: " ",
-      writers: [" "],
+      date: "",
+      link: "",
+      github: "",
+      writers: [""],
+    },
+  ],
+
+  type_four_title: "",
+  type_four_items: [
+    {
+      title: ``,
+      abstract: ``,
+      date: "",
+      link: "",
+      github: "",
+      writers: [],
+    },
+    {
+      title: ``,
+      abstract: ``,
+      date: "",
+      link: "",
+      github: "",
+      writers: [""],
     },
   ],
 };
@@ -261,12 +261,21 @@ const enResearchPageData = {
   title: "Research",
   content: `
     <div class='research_content'>
-        <p> My research goal is to combine the three major sub-fields of the Computational Social Science, including Social Media Data Analysis, Network Analysis, and Agent-based Modeling, to study various social science problems. Below you can find a summary of my past and current projects.</p>
+        <p> The El Niño–Southern Oscillation (ENSO) is the dominant mode of interannual climate variability with far-reaching global impacts. However, recent ENSO events have displayed unprecedented characteristics that challenge traditional ENSO dynamics. For instance, the extreme coastal El Niño events of 2017 and 2023 exhibited intense warming confined to coastal Peru and Ecuador, leading to severe flooding, hundreds of deaths, and extensive property damage. These events were driven by the combined effects of coastal alongshore winds and equatorial Kelvin waves, amplified by positive coastal Bjerknes feedback [1][2]. We further showed that the strong alongshore wind anomalies were associated with the Eastern Pacific ITCZ Dipole (EPID) mode [3][4] and interactions between the Madden-Julian Oscillation (MJO) phase 8 and the steep Andes [2]. These coupled processes provide significant predictability for such coastal El Niño events, offering approximately one month of lead time to prepare and mitigate impacts. </p>
+        <p> The 2023-24 strong El Niño event is another example. Unlike traditional events, it featured strong eastern Pacific Sea Surface Temperature (SST) warming accompanied by unexpectedly weak atmospheric responses, including muted zonal wind anomalies and a low Southern Oscillation Index. This divergence from the classic ENSO paradigm underscores the diminished role of the positive Bjerknes feedback in this event. Through atmospheric general circulation model experiments, we showed that extraordinary warming in the Atlantic and Indian Oceans during 2023 and long-term global SST trends suppressed Pacific surface wind responses by modulating the Walker circulation. Our novel hindcast system revealed that pre-existing western Pacific heat content, accumulated during the preceding prolonged La Niña, contributed to the warming through wave dynamics and thermocline feedback, independent of wind stress feedback after April 2023 [5]. This challenges traditional ENSO paradigms, highlighting that strong El Niño events can arise from oceanic processes alone. </p>
+        <img src='../files/images/enso.png' />
         <br />
-        <h4 style="font-size: 1.1rem "> Identifying and Characterizing US Domestic Ideological Extremists </h4>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas purus viverra accumsan in nisl nisi. Arcu cursus vitae congue mauris rhoncus aenean vel elit scelerisque. In egestas erat imperdiet sed euismod nisi porta lorem mollis. Morbi tristique senectus et netus. Mattis pellentesque id nibh tortor id aliquet lectus proin. Sapien faucibus et molestie ac feugiat sed lectus vestibulum. Ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Dictum varius duis at consectetur lorem. Nisi vitae suscipit tellus mauris a diam maecenas sed enim. Velit ut tortor pretium viverra suspendisse potenti nullam. Et molestie ac feugiat sed lectus. Non nisi est sit amet facilisis magna. Dignissim diam quis enim lobortis scelerisque fermentum. Odio ut enim blandit volutpat maecenas volutpat. Ornare lectus sit amet est placerat in egestas erat. Nisi vitae suscipit tellus mauris a diam maecenas sed. Placerat duis ultricies lacus sed turpis tincidunt id aliquet.</p>
-        <img src='../files/images/research.png' />
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas purus viverra  accumsan in nisl nisi. Arcu cursus vitae congue mauris rhoncus aenean vel elit scelerisque. In egestas erat <br /> imperdiet sed euismod nisi porta lorem mollis. Morbi tristique senectus et netus. Mattis pellentesque id nibh tortor id aliquet <br /> lectus proin. Sapien faucibus et molestie ac feugiat sed lectus vestibulum. Ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Dictum varius duis at consectetur lorem. Nisi vitae suscipit tellus mauris a diam maecenas sed enim. Velit ut tortor pretium viverra suspendisse potenti nullam. Et molestie ac feugiat sed lectus. Non nisi est sit amet facilisis magna. Dignissim diam quis enim lobortis scelerisque fermentum. Odio ut enim blandit volutpat maecenas volutpat. Ornare lectus sit amet est placerat in egestas erat. Nisi vitae suscipit tellus mauris a diam maecenas sed. Placerat duis ultricies lacus sed turpis tincidunt id aliquet.</p>
+        <p>In addition to present-day ENSO dynamics, I have also investigated the responses of climate system to global warming. While ENSO variability displays diverse short-term changes, our results show a robust reduction in ENSO amplitude after 2100 due to weakened thermocline feedback, thermodynamic damping, and increased thermal expansion coefficients under sustained warming [6]. Furthermore, we have investigated how global warming influences ocean circulation. Our studies reveal that global upper-ocean circulation responses to anthropogenic forcing are primarily driven by surface warming. This mechanism accelerates upper subtropical gyres and equatorial currents by enhancing stratification and shoaling these current systems [7]. Additionally, we find that weakening of the Atlantic Meridional Overturning Circulation (AMOC) under global warming transmits coastal Kelvin waves to weaken the Indonesian Throughflow [8].</p>
+        <img src='../files/images/current.jpg' />
+        <p>[1] Peng, Q., Xie, S.-P., Wang, D., Zheng, X.-T., & Zhang, H. (2019). Coupled ocean-atmosphere dynamics of the 2017 extreme coastal El Niño. Nature Communications, 10(1), 298. </p>
+        <p>[2] Peng, Q., Xie, S.-P., Passalacqua, G., Miyamoto A., & Deser, C., (2024). The 2023 extreme coastal El Niño: Atmospheric and air-sea coupling mechanisms. Science Advances, 10(12).</p>
+        <p>[3] Xie, S.-P., Peng, Q.#(co-first author), Kamae, Y., Zheng, X.-T., Tokinaga, H., & Wang, D. (2018). Eastern Pacific ITCZ dipole and ENSO diversity. Journal of Climate, 31(11), 4449-4462. </p>
+        <p>[4] Peng, Q., Xie, S.-P., Wang, D., Kamae, Y., Zhang, H., Hu, S., et al. (2020). Eastern Pacific wind effect on the evolution of El Niño: Implications for ENSO diversity. Journal of Climate, 33(8), 3197-3212.</p>
+        <p>[5] Peng, Q., Xie, S.-P., Miyamoto A., Deser, C., P. Zhang, & Luongo M. Unusual growth of the 2023-24 El Niño against the odds of Indo-Atlantic warming. Nature Geoscience (accepted).</p>
+        <p>[6] Peng, Q., Xie, S.-P., & Deser, C., (2024). Collapsed upwelling weakens ENSO under sustained warming beyond the 21st century. Nature Climate Change, 14(8), 815-822.</p>
+        <p>[7] Peng, Q., Xie, S.-P., Wang, D., Huang R., Chen G., Shu Y., et al. (2022). Surface warming–induced global acceleration of upper ocean currents. Science Advances, 8(16). </p>
+        <p>[8] Peng, Q., Xie, S.-P., Huang R., Wang, W., Zu, T., & Wang, D. (2023). Indonesian Throughflow slowdown under global warming: Remote AMOC effect vs. regional surface forcing. Journal of Climate, 36(5),1301-1318. </p>
+        <p> </p>
     </div>
   `,
 };
@@ -277,23 +286,22 @@ const enJobsPageData = {
   items: [
     {
       title: `Job title`,
-      company: "Company name",
-      startData: "20 April 2019",
-      endDate: "20 April 2022",
-      location: "Berlin",
+      company: "",
+      startData: "",
+      endDate: "",
+      location: "",
       abstract:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas purus viverra accumsan in nisl nisi. Arcu cursus vitae congue mauris rhoncus aenean vel elit scelerisque. In egestas erat imperdiet sed euismod nisi porta lorem mollis. Morbi tristique senectus et netus.",
-      achievements: ["achievement 1", "achievement 2", "achievement 3"],
+        "",
+      achievements: ["", "", ""],
     },
     {
-      title: `Job title`,
-      company: "Company name",
-      startData: "20 April 2019",
+      title: ``,
+      company: "",
+      startData: "",
       endDate: "",
-      location: "Berlin",
+      location: "",
       abstract:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas purus viverra accumsan in nisl nisi. Arcu cursus vitae congue mauris rhoncus aenean vel elit scelerisque. In egestas erat imperdiet sed euismod nisi porta lorem mollis. Morbi tristique senectus et netus.",
-      achievements: ["achievement 1", "achievement 2"],
+        ""],
     },
   ],
 };
