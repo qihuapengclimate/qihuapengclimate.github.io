@@ -215,17 +215,6 @@ const enPublicationsPageData = {
       writers: [],
     },
   ],
-  
-  type_three_title: " ",
-  type_three_items: [
-    {
-      title: ` `,
-      abstract: ``,
-      date: "",
-      link: "",
-      github: "",
-      writers: [],
-    },
 };
 
 // ---------- Research page data
