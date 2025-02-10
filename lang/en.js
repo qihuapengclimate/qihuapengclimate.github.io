@@ -215,10 +215,10 @@ const enPublicationsPageData = {
       writers: [],
     },
   ],
-  type_three_title: "Book Chapters",
+  type_three_title: " ",
   type_three_items: [
     {
-      title: `Elena Reinaga. 2016. If I were born again I would still be a sex worker. P. Purdy and N. Umansky. OpenDemocracy.`,
+      title: ` `,
       abstract: ``,
       date: "",
       link: "",
@@ -226,19 +226,19 @@ const enPublicationsPageData = {
       writers: [],
     },
     {
-      title: `“Now you are speaking my language” Language-specific transparency and legislative negotiations in the Council of Ministers of the European Union. (with ).`,
-      abstract: `we adopt an elite-focused approach to explore the ways in which left and right-leaning American political elites differ in their visual and emotional framing of climate change. Overall, this study provides new insight into how politicians across party lines communicate about critical and polarizing political issues, such as climate change, by adapting to novel online communication channels.`,
-      date: "1996",
-      link: "http://link.com",
-      github: "http://github.com",
-      writers: ["Claudio Cioffi-Revilla"],
+      title: ` `,
+      abstract: ``,
+      date: " ",
+      link: " ",
+      github: " ",
+      writers: [" "],
     },
   ],
 
   type_four_title: "",
   type_four_items: [
     {
-      title: `Elena Reinaga. 2016. If I were born again I would still be a sex worker. P. Purdy and N. Umansky. OpenDemocracy.`,
+      title: ` `,
       abstract: ``,
       date: "",
       link: "",
@@ -246,12 +246,12 @@ const enPublicationsPageData = {
       writers: [],
     },
     {
-      title: `“Now you are speaking my language” Language-specific transparency and legislative negotiations in the Council of Ministers of the European Union. (with ).`,
-      abstract: `we adopt an elite-focused approach to explore the ways in which left and right-leaning American political elites differ in their visual and emotional framing of climate change. Overall, this study provides new insight into how politicians across party lines communicate about critical and polarizing political issues, such as climate change, by adapting to novel online communication channels.`,
-      date: "1996",
-      link: "http://link.com",
-      github: "http://github.com",
-      writers: ["Claudio Cioffi-Revilla"],
+      title: ``,
+      abstract: ``,
+      date: " ",
+      link: " ",
+      github: " ",
+      writers: [" "],
     },
   ],
 };
@@ -273,7 +273,7 @@ const enResearchPageData = {
 
 // ---------- Jobs page data
 const enJobsPageData = {
-  title: "Jobs",
+  title: "Gallery",
   items: [
     {
       title: `Job title`,
