@@ -225,34 +225,6 @@ const enPublicationsPageData = {
       github: "",
       writers: [],
     },
-    {
-      title: ``,
-      abstract: ``,
-      date: "",
-      link: "",
-      github: "",
-      writers: [""],
-    },
-  ],
-
-  type_four_title: "",
-  type_four_items: [
-    {
-      title: ``,
-      abstract: ``,
-      date: "",
-      link: "",
-      github: "",
-      writers: [],
-    },
-    {
-      title: ``,
-      abstract: ``,
-      date: "",
-      link: "",
-      github: "",
-      writers: [""],
-    },
   ],
 };
 
@@ -276,24 +248,14 @@ const enJobsPageData = {
   title: "Jobs",
   items: [
     {
-      title: `Job title`,
-      company: "Company name",
-      startData: "20 April 2019",
-      endDate: "20 April 2022",
-      location: "Berlin",
-      abstract:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas purus viverra accumsan in nisl nisi. Arcu cursus vitae congue mauris rhoncus aenean vel elit scelerisque. In egestas erat imperdiet sed euismod nisi porta lorem mollis. Morbi tristique senectus et netus.",
-      achievements: ["achievement 1", "achievement 2", "achievement 3"],
-    },
-    {
-      title: `Job title`,
-      company: "Company name",
-      startData: "20 April 2019",
+      title: ``,
+      company: "",
+      startData: "",
       endDate: "",
-      location: "Berlin",
+      location: "",
       abstract:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas purus viverra accumsan in nisl nisi. Arcu cursus vitae congue mauris rhoncus aenean vel elit scelerisque. In egestas erat imperdiet sed euismod nisi porta lorem mollis. Morbi tristique senectus et netus.",
-      achievements: ["achievement 1", "achievement 2"],
+        "",
+      achievements: ["", "", ""],
     },
   ],
 };
