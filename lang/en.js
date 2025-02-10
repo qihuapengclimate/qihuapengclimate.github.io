@@ -11,7 +11,7 @@ const enNavbarData = {
 // ---------- Home page data
 const enHomePageData = {
   name: " Qihua Peng ",
-  jobTitle: " Postdoctoral Researcher at Scripps Institution of Oceanography, UC San Diego ",
+  jobTitle: "Scripps Institution of Oceanography, UC San Diego",
   home_title: "Bio",
   home_content: `
   <div>
