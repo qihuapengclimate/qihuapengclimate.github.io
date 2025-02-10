@@ -264,7 +264,7 @@ $(document).ready(function () {
 
   // Contact page data
   const contact_data = {
-    contact_title: lang === "en" ? "Contact" : "ارتباط با من",
+    contact_title: lang === "en" ? "Contact" : "联系方式",
     contact_items: [
       {
         img: "../assets/images/icons/location.png",
