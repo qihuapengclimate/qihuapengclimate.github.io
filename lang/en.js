@@ -2,9 +2,9 @@
 const enNavbarData = {
   title: " Qihua Peng ",
   Home: "Home",
-  publications: "publications",
+  publications: "Publications",
   Research: "Research",
-  Jobs: "Jobs",
+  Jobs: "Gallery",
   Contact: "Contact",
 };
 
