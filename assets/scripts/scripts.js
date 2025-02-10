@@ -123,7 +123,7 @@ $(document).ready(function () {
             publication.link &&
             `<li>
                 <a href=${publication.link} target="_blank"> ${
-              lang === "en" ? "View" : "文章链接"
+              lang === "en" ? "View" : "阅读"
             } </a>
               </li>`
           }
@@ -131,7 +131,7 @@ $(document).ready(function () {
               publication.github &&
               `<li>
                   <a href=${publication.github} target="_blank">  ${
-                lang === "en" ? "Github" : "链接"
+                lang === "en" ? "Github" : ""
               }</a>
                 </li>`
             }
