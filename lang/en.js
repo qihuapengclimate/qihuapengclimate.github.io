@@ -12,15 +12,13 @@ const enNavbarData = {
 const enHomePageData = {
   name: " Qihua Peng ",
   jobTitle: " Postdoctoral Researcher at Scripps Institution of Oceanography, UC San Diego ",
-  home_title: "About me",
+  home_title: "Bio",
   home_content: `
   <div>
-    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.
-      ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-      Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    </p>
-    <h2 class='title'> Main works </h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas purus viverra accumsan in nisl nisi. Arcu cursus vitae congue mauris rhoncus aenean vel elit scelerisque. In egestas erat imperdiet sed euismod nisi porta lorem mollis. Morbi tristique senectus et netus. Mattis pellentesque id nibh  </p>
+    <p>I am a postdoctoral researcher at Scripps Institution of Oceanography, UC San Diego. My academic journey began with a B.Sc. in Ocean Sciences from Nanjing University’s School of Physics (July 2013), leading to a Ph.D. in Physical Oceanography from the South China Sea Institute of Oceanology, Chinese Academy of Sciences (July 2019). Between 2016 and 2018, I conducted research as a joint Ph.D. student at Scripps Institution of Oceanography. 
+    I am interested in the dynamics of atmospheric circulation and ocean-atmosphere interaction. My research focuses on the climate dynamics, emphasizing tropical air-sea interactions, ocean current variability and their changes under global warming.  I typically employ a combination of observational data analysis, realistic numerical experiments, and diagnostic approaches to investigate these topics.
+    <h2 class='title'>  </h2>
+    <p>  </p>
     <ul>
       <li> Heuristics</li>
       <li> Policy planning </li>
