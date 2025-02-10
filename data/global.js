@@ -8,7 +8,7 @@ const navbarLinks = {
 
 const globalData = {
   image: "../files/qihua.jpg",
-  resume: "../files/resume.pdf",
+  resume: "../files/Curriculum Vitae_Qihua Peng 202502.pdf",
   enAddress: "Scripps Institution of Oceanography University of California, San Diego 9500 Gilman Drive, MC 206 La Jolla, CA 92093-0206",
   faAddress: "Scripps Institution of Oceanography University of California, San Diego 9500 Gilman Drive, MC 206 La Jolla, CA 92093-0206",
   phone: "8582578423",
