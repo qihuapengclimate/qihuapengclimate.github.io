@@ -138,8 +138,7 @@ const enPublicationsPageData = {
       link: "https://www.jto.ac.cn/EN/PDF/10.11978/2022055",
       github: "",
       writers: [],
-    },
-    
+    }, 
     {
       title: `Chen, G., Huang, R. X., Peng, Q., & Chu, X. (2022). A time-dependent Sverdrup relation and its application to the Indian Ocean. Journal of Physical Oceanography, 52(6), 1233-1244.`,
       abstract: ``,
@@ -156,7 +155,7 @@ const enPublicationsPageData = {
       github: "",
       writers: [],
     },
-     {
+    {
       title: `Zhang, Y., Yu, S.-Y., Xie, S.-P., Amaya, D. J., Peng, Q., Kosaka, Y., et al. (2022). Role of ocean dynamics in equatorial Pacific decadal variability. Climate Dynamics, 59(7-8), 2517-2529. `,
       abstract: ``,
       date: "",
@@ -189,7 +188,6 @@ const enPublicationsPageData = {
       writers: [],
     },      
   ],
-
   type_two_title: "Under Review",
   type_two_items: [
     {
