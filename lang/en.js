@@ -226,35 +226,6 @@ const enPublicationsPageData = {
       github: "",
       writers: [],
     },
-    {
-      title: ` `,
-      abstract: ``,
-      date: " ",
-      link: " ",
-      github: " ",
-      writers: [" "],
-    },
-  ],
-
-  type_four_title: "",
-  type_four_items: [
-    {
-      title: ` `,
-      abstract: ``,
-      date: "",
-      link: "",
-      github: "",
-      writers: [],
-    },
-    {
-      title: ` `,
-      abstract: ``,
-      date: " ",
-      link: " ",
-      github: " ",
-      writers: [" "],
-    },
-  ],
 };
 
 // ---------- Research page data
