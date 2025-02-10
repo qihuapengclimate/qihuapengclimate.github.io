@@ -4,7 +4,7 @@ const enNavbarData = {
   Home: "Home",
   publications: "Publications",
   Research: "Research",
-  Jobs: "Gallery",
+  Jobs: "CV",
   Contact: "Contact",
 };
 
