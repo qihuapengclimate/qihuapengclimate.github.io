@@ -234,21 +234,27 @@ const enResearchPageData = {
 
 // ---------- Jobs page data
 const enJobsPageData = {
-  gallery: [
+  title: "Jobs",
+  items: [
     {
-      title: "日落海岸",
-      description: "在研究航行期间拍摄的太平洋日落美景。",
-      imageUrl: "../files/images/research.png"
+      title: `Job title`,
+      company: "Company name",
+      startData: "20 April 2019",
+      endDate: "20 April 2022",
+      location: "Berlin",
+      abstract:
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas purus viverra accumsan in nisl nisi. Arcu cursus vitae congue mauris rhoncus aenean vel elit scelerisque. In egestas erat imperdiet sed euismod nisi porta lorem mollis. Morbi tristique senectus et netus.",
+      achievements: ["achievement 1", "achievement 2", "achievement 3"],
     },
     {
-      title: "风暴来临",
-      description: "南海上空形成的巨大风暴，展示了自然的力量。",
-      imageUrl: "../files/images/research.png"
+      title: `Job title`,
+      company: "Company name",
+      startData: "20 April 2019",
+      endDate: "",
+      location: "Berlin",
+      abstract:
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas purus viverra accumsan in nisl nisi. Arcu cursus vitae congue mauris rhoncus aenean vel elit scelerisque. In egestas erat imperdiet sed euismod nisi porta lorem mollis. Morbi tristique senectus et netus.",
+      achievements: ["achievement 1", "achievement 2"],
     },
-    {
-      title: "南大洋的冰山",
-      description: "一座漂浮在南大洋的孤独冰山，气候变化的无声见证者。",
-      imageUrl: "../files/images/research.png"
-    }
   ],
 };
