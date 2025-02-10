@@ -267,14 +267,14 @@ const enResearchPageData = {
         <br />
         <p>In addition to present-day ENSO dynamics, I have also investigated the responses of climate system to global warming. While ENSO variability displays diverse short-term changes, our results show a robust reduction in ENSO amplitude after 2100 due to weakened thermocline feedback, thermodynamic damping, and increased thermal expansion coefficients under sustained warming [6]. Furthermore, we have investigated how global warming influences ocean circulation. Our studies reveal that global upper-ocean circulation responses to anthropogenic forcing are primarily driven by surface warming. This mechanism accelerates upper subtropical gyres and equatorial currents by enhancing stratification and shoaling these current systems [7]. Additionally, we find that weakening of the Atlantic Meridional Overturning Circulation (AMOC) under global warming transmits coastal Kelvin waves to weaken the Indonesian Throughflow [8].</p>
         <img src='../files/images/current.jpg' />
-        <p>[1] Peng, Q., Xie, S.-P., Wang, D., Zheng, X.-T., & Zhang, H. (2019). Coupled ocean-atmosphere dynamics of the 2017 extreme coastal El Niño. Nature Communications, 10(1), 298. </p>
-        <p>[2] Peng, Q., Xie, S.-P., Passalacqua, G., Miyamoto A., & Deser, C., (2024). The 2023 extreme coastal El Niño: Atmospheric and air-sea coupling mechanisms. Science Advances, 10(12).</p>
-        <p>[3] Xie, S.-P., Peng, Q.#(co-first author), Kamae, Y., Zheng, X.-T., Tokinaga, H., & Wang, D. (2018). Eastern Pacific ITCZ dipole and ENSO diversity. Journal of Climate, 31(11), 4449-4462. </p>
-        <p>[4] Peng, Q., Xie, S.-P., Wang, D., Kamae, Y., Zhang, H., Hu, S., et al. (2020). Eastern Pacific wind effect on the evolution of El Niño: Implications for ENSO diversity. Journal of Climate, 33(8), 3197-3212.</p>
-        <p>[5] Peng, Q., Xie, S.-P., Miyamoto A., Deser, C., P. Zhang, & Luongo M. Unusual growth of the 2023-24 El Niño against the odds of Indo-Atlantic warming. Nature Geoscience (accepted).</p>
-        <p>[6] Peng, Q., Xie, S.-P., & Deser, C., (2024). Collapsed upwelling weakens ENSO under sustained warming beyond the 21st century. Nature Climate Change, 14(8), 815-822.</p>
-        <p>[7] Peng, Q., Xie, S.-P., Wang, D., Huang R., Chen G., Shu Y., et al. (2022). Surface warming–induced global acceleration of upper ocean currents. Science Advances, 8(16). </p>
-        <p>[8] Peng, Q., Xie, S.-P., Huang R., Wang, W., Zu, T., & Wang, D. (2023). Indonesian Throughflow slowdown under global warming: Remote AMOC effect vs. regional surface forcing. Journal of Climate, 36(5),1301-1318. </p>
+        <p>1. Peng, Q., Xie, S.-P., Wang, D., Zheng, X.-T., & Zhang, H. (2019). Coupled ocean-atmosphere dynamics of the 2017 extreme coastal El Niño. Nature Communications, 10(1), 298. </p>
+        <p>2. Peng, Q., Xie, S.-P., Passalacqua, G., Miyamoto A., & Deser, C., (2024). The 2023 extreme coastal El Niño: Atmospheric and air-sea coupling mechanisms. Science Advances, 10(12).</p>
+        <p>3. Xie, S.-P., Peng, Q.#(co-first author), Kamae, Y., Zheng, X.-T., Tokinaga, H., & Wang, D. (2018). Eastern Pacific ITCZ dipole and ENSO diversity. Journal of Climate, 31(11), 4449-4462. </p>
+        <p>4. Peng, Q., Xie, S.-P., Wang, D., Kamae, Y., Zhang, H., Hu, S., et al. (2020). Eastern Pacific wind effect on the evolution of El Niño: Implications for ENSO diversity. Journal of Climate, 33(8), 3197-3212.</p>
+        <p>5. Peng, Q., Xie, S.-P., Miyamoto A., Deser, C., P. Zhang, & Luongo M. Unusual growth of the 2023-24 El Niño against the odds of Indo-Atlantic warming. Nature Geoscience (accepted).</p>
+        <p>6. Peng, Q., Xie, S.-P., & Deser, C., (2024). Collapsed upwelling weakens ENSO under sustained warming beyond the 21st century. Nature Climate Change, 14(8), 815-822.</p>
+        <p>7. Peng, Q., Xie, S.-P., Wang, D., Huang R., Chen G., Shu Y., et al. (2022). Surface warming–induced global acceleration of upper ocean currents. Science Advances, 8(16). </p>
+        <p>8. Peng, Q., Xie, S.-P., Huang R., Wang, W., Zu, T., & Wang, D. (2023). Indonesian Throughflow slowdown under global warming: Remote AMOC effect vs. regional surface forcing. Journal of Climate, 36(5),1301-1318. </p>
         <p> </p>
     </div>
   `,
