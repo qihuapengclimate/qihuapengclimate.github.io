@@ -13,16 +13,16 @@ const faHomePageData = {
   home_title: " 关于我 ",
   home_content: `
     <div>
-    <p>I am a postdoctoral researcher at Scripps Institution of Oceanography, UC San Diego. My academic journey began with a B.Sc. in Ocean Sciences from Nanjing University’s School of Physics (July 2013), leading to a Ph.D. in Physical Oceanography from the South China Sea Institute of Oceanology, Chinese Academy of Sciences (July 2019). Between 2016 and 2018, I conducted research as a joint Ph.D. student at Scripps Institution of Oceanography.</li> 
+    <p>我目前是加州大学圣地亚哥分校斯克里普斯海洋研究所的博士后研究员。我本科毕业于南京大学地理与海洋科学学院（2013年7月），随后在中国科学院南海海洋研究所获得物理海洋学博士学位（2019年7月）。在读博期间，我于2016年至2018年曾作为联合培养博士生在斯克里普斯海洋研究所开展研究。</li> 
     <p>  </p>
-    I am interested in the dynamics of atmospheric circulation and ocean-atmosphere interaction. My research focuses on the climate dynamics, emphasizing tropical air-sea interactions, ocean current variability and their changes under global warming.  I typically employ a combination of observational data analysis, realistic numerical experiments, and diagnostic approaches to investigate these topics.
+    我的研究兴趣包括海洋和大气的动力过程，特别是热带海气相互作用——如厄尔尼诺和南方涛动（ENSO）的动力机制和影响。此外我还对全球变暖背景下ENSO以及海洋环流的变化也充满兴趣。在以往的研究中，我通常结合观测数据分析、数值模式试验以及数据诊断等方法来探究自己感兴趣的科学问题。
     <h2 class='title'>  </h2>
     <p>  </p>
     <ul>
-      <li> Air-sea interaction</li>
-      <li> Ocean dynamics </li>
-      <li> El Niño-Southern Oscillation (ENSO) </li>
-      <li> Climate change </li>      
+      <li> 海气相互作用</li>
+      <li> 海洋动力过程 </li>
+      <li> 厄尔尼诺和南方涛动（ENSO） </li>
+      <li> 气候变化 </li>      
     </ul>
   </div>
   `,
@@ -210,6 +210,45 @@ const faPublicationsPageData = {
       link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kAKvj4IAAAAJ&sortby=pubdate&citation_for_view=kAKvj4IAAAAJ:_kc_bZDykSQC",
       github: "",
       writers: [],
+    },
+  ],
+  type_three_title: "Book Chapters",
+  type_three_items: [
+    {
+      title: `Elena Reinaga. 2016. If I were born again I would still be a sex worker. P. Purdy and N. Umansky. OpenDemocracy.`,
+      abstract: ``,
+      date: "",
+      link: "",
+      github: "",
+      writers: [],
+    },
+    {
+      title: `“Now you are speaking my language” Language-specific transparency and legislative negotiations in the Council of Ministers of the European Union. (with ).`,
+      abstract: `we adopt an elite-focused approach to explore the ways in which left and right-leaning American political elites differ in their visual and emotional framing of climate change. Overall, this study provides new insight into how politicians across party lines communicate about critical and polarizing political issues, such as climate change, by adapting to novel online communication channels.`,
+      date: "1996",
+      link: "http://link.com",
+      github: "http://github.com",
+      writers: ["Claudio Cioffi-Revilla"],
+    },
+  ],
+
+  type_four_title: "",
+  type_four_items: [
+    {
+      title: `Elena Reinaga. 2016. If I were born again I would still be a sex worker. P. Purdy and N. Umansky. OpenDemocracy.`,
+      abstract: ``,
+      date: "",
+      link: "",
+      github: "",
+      writers: [],
+    },
+    {
+      title: `“Now you are speaking my language” Language-specific transparency and legislative negotiations in the Council of Ministers of the European Union. (with ).`,
+      abstract: `we adopt an elite-focused approach to explore the ways in which left and right-leaning American political elites differ in their visual and emotional framing of climate change. Overall, this study provides new insight into how politicians across party lines communicate about critical and polarizing political issues, such as climate change, by adapting to novel online communication channels.`,
+      date: "1996",
+      link: "http://link.com",
+      github: "http://github.com",
+      writers: ["Claudio Cioffi-Revilla"],
     },
   ],
 };
