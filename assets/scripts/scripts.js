@@ -123,7 +123,7 @@ $(document).ready(function () {
             publication.link &&
             `<li>
                 <a href=${publication.link} target="_blank"> ${
-              lang === "en" ? "View" : "阅读"
+              lang === "en" ? "View" : "View"
             } </a>
               </li>`
           }
