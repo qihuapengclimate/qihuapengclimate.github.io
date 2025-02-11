@@ -281,7 +281,7 @@ $(document).ready(function () {
         active: globalData.email ? true : false,
       },
      {
-        img: "../assets/images/icons/github.png",
+        img: "../assets/images/icons/cv.png",
         url: globalData.github,
         name: globalData.githubTitle,
         active: globalData.github ? true : false,
@@ -293,7 +293,7 @@ $(document).ready(function () {
         active: globalData.googleScholar ? true : false,
       },
      {
-        img: "../assets/images/icons/whatsapp.png",
+        img: "../assets/images/icons/rg.png",
         url: globalData.whatsapp,
         name: globalData.whatsappTitle,
         active: globalData.whatsapp ? true : false,
