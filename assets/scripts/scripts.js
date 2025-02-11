@@ -41,7 +41,7 @@ $(document).ready(function () {
       {
         name: globalData.whatsapp,
         active: globalData.whatsapp ? true : false,
-        img: "../assets/images/icons/whatsapp.png",
+        img: "../assets/images/icons/rg.png",
       },
       {
         name: globalData.twitter,
@@ -63,7 +63,7 @@ $(document).ready(function () {
         name: globalData.resume,
         active: globalData.resume ? true : false,
         url: "/",
-        img: "../assets/images/icons/resume.png",
+        img: "../assets/images/icons/cv.png",
       },
     ],
   };
