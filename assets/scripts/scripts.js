@@ -57,7 +57,7 @@ $(document).ready(function () {
         name: globalData.github,
         active: globalData.github ? true : false,
         url: "/",
-        img: "../assets/images/icons/github.png",
+        img: "../assets/images/icons/cv.png",
       },
       {
         name: globalData.resume,
