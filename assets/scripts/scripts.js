@@ -39,6 +39,17 @@ $(document).ready(function () {
         img: "../assets/images/icons/mail.png",
       },
       {
+        name: globalData.github,
+        active: globalData.github ? true : false,
+        url: "/",
+        img: "../assets/images/icons/cv.png",
+      },
+      {
+        name: globalData.googleScholar,
+        active: globalData.googleScholar ? true : false,
+        img: "../assets/images/icons/google-scholar.png",
+      },
+      {
         name: globalData.whatsapp,
         active: globalData.whatsapp ? true : false,
         img: "../assets/images/icons/rg.png",
@@ -52,18 +63,6 @@ $(document).ready(function () {
         name: globalData.linkedin,
         active: globalData.linkedin ? true : false,
         img: "../assets/images/icons/linkedin.png",
-      },
-      {
-        name: globalData.github,
-        active: globalData.github ? true : false,
-        url: "/",
-        img: "../assets/images/icons/cv.png",
-      },
-      {
-        name: globalData.resume,
-        active: globalData.resume ? true : false,
-        url: "/",
-        img: "../assets/images/icons/cv.png",
       },
     ],
   };
@@ -145,7 +144,7 @@ $(document).ready(function () {
 
   function publicationsData() {
     document.getElementById("page_title").innerText =
-      lang === "en" ? "Publications" : "مقالات";
+      lang === "en" ? "Publications" : "文章";
 
     document.getElementById("publications_type_one_title").innerHTML =
       lang === "en"
@@ -203,7 +202,7 @@ $(document).ready(function () {
   // Research page data
   function researchData() {
     document.getElementById("page_title").innerText =
-      lang === "en" ? "Research" : "تحقیقات";
+      lang === "en" ? "Research" : "研究兴趣";
 
     document.getElementById("research_title").innerHTML =
       lang === "en" ? enResearchPageData.title : faResearchPageData.title;
@@ -281,17 +280,11 @@ $(document).ready(function () {
         title: globalData.email,
         active: globalData.email ? true : false,
       },
-      {
-        img: "../assets/images/icons/twitter.png",
-        url: globalData.twitter,
-        name: globalData.twitterTitle,
-        active: globalData.twitter ? true : false,
-      },
-      {
-        img: "../assets/images/icons/whatsapp.png",
-        url: globalData.whatsapp,
-        name: globalData.whatsappTitle,
-        active: globalData.whatsapp ? true : false,
+     {
+        img: "../assets/images/icons/github.png",
+        url: globalData.github,
+        name: globalData.githubTitle,
+        active: globalData.github ? true : false,
       },
       {
         img: "../assets/images/icons/google-scholar.png",
@@ -299,17 +292,23 @@ $(document).ready(function () {
         name: globalData.googleScholarTitle,
         active: globalData.googleScholar ? true : false,
       },
+     {
+        img: "../assets/images/icons/whatsapp.png",
+        url: globalData.whatsapp,
+        name: globalData.whatsappTitle,
+        active: globalData.whatsapp ? true : false,
+      },
+      {
+        img: "../assets/images/icons/twitter.png",
+        url: globalData.twitter,
+        name: globalData.twitterTitle,
+        active: globalData.twitter ? true : false,
+      },      
       {
         img: "../assets/images/icons/orcid.png",
         url: globalData.orcid,
         name: globalData.orcidTitle,
         active: globalData.orcid ? true : false,
-      },
-      {
-        img: "../assets/images/icons/github.png",
-        url: globalData.github,
-        name: globalData.githubTitle,
-        active: globalData.github ? true : false,
       },
       {
         img: "../assets/images/icons/linkedin.png",
