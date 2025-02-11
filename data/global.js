@@ -2,7 +2,7 @@ const navbarLinks = {
   home: true,
   publications: true,
   research: true,
-  jobs: true,
+  jobs: false,
   contact: true,
 };
 
