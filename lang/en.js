@@ -243,27 +243,5 @@ const enResearchPageData = {
 };
 // ---------- Jobs page data
 const enJobsPageData = {
-  title: "Education",
-  items: [
-    {
-      title: `Ph.D.`,
-      company: "         ",
-      startData: "September 2013",
-      endDate: "June 2019",
-      location: "",
-      abstract:
-        "South China Sea Institute of Oceanology (SCSIO), Chinese Academy of Sciences (CAS)",
-      achievements: "Physical Oceanography",
-    },
-    {
-      title: `Joint Ph.D. student`,
-      company: "",
-      startData: "September 2016",
-      endDate: "September 2018",
-      location: "",
-      abstract:
-        "Scripps Institution of Oceanography, UC San Diego ",
-      achievements: "Physical Oceanography",
-    },
-  ],
+resume: "../files/cv.pdf",
 };
