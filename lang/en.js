@@ -4,7 +4,7 @@ const enNavbarData = {
   Home: "Home",
   publications: "Publications",
   Research: "Research",
-  Jobs: "CV",
+  Jobs: "",
   Contact: "Contact",
 };
 
@@ -215,7 +215,11 @@ const enPublicationsPageData = {
       writers: [],
     },
   ],
+  type_three_title: "",
+  type_three_items: [],
 
+  type_four_title: "",
+  type_four_items: [],
 };
 
 // ---------- Research page data
@@ -242,6 +246,4 @@ const enResearchPageData = {
   `,
 };
 // ---------- Jobs page data
-const enJobsPageData = {
-resume: "../files/cv.pdf",
-};
+const enJobsPageData = {};
