@@ -11,7 +11,7 @@ const globalData = {
   resume: "",
   enAddress: "Scripps Institution of Oceanography University of California, San Diego 9500 Gilman Drive, MC 206 La Jolla, CA 92093-0206",
   faAddress: "Scripps Institution of Oceanography University of California, San Diego 9500 Gilman Drive, MC 206 La Jolla, CA 92093-0206",
-  phone: "8582578423",
+  phone: " ",
   email: "q2peng@ucsd.edu or qihpeng@hotmail.com",
   githubTitle: "My Curriculum Vitae",
   github: "../files/cv.pdf",
