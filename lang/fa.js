@@ -29,9 +29,36 @@ const faHomePageData = {
 };
 
 const faPublicationsPageData = {
-  type_one_title: "发表的文章",
-
+  type_one_title: "在审文章",
   type_one_items: [
+    {
+      title: `Peng, Q., Xie, S.-P., Miyamoto A., Deser, C., P. Zhang, & Luongo M., Unusual growth of the 2023-24 El Niño against the odds of Indo-Atlantic warming. Nature Geoscience (已接收).`,
+      abstract: ``,
+      date: "",
+      link: "",
+      github: "",
+      writers: [],
+    },
+    {
+      title: `Luongo M., Xie, S.-P., Eisenman I., & Peng, Q.,. How the Subsurface Tropical Pacific Responds to Hemispherically Asymmetric Temperature Forcing: Implications for Cross-Equatorial Mass and Heat Transport. Journal of Climate (已接收).`,
+      abstract: ``,
+      date: "",
+      link: "",
+      github: "",
+      writers: [],
+    },
+   {
+      title: `Taylor, B. A., Shi, J.-R., Xie, S.-P., Talley, L. D., Luongo, M. T., & Peng, Q. (2024). Warming band in Southern Ocean’s Indian sector: The role of remote Atlantic buoyancy forcing via poleward-shifting circulation response. Journal of Climate (已接收) `,
+      abstract: ``,
+      date: "",
+      link: "",
+      github: "",
+      writers: [],
+    },
+  ],
+  type_two_title: "发表的文章",
+
+  type_two_items: [
     {
       title: `Peng, Q., Xie, S.-P., & Deser, C., (2024). Collapsed upwelling weakens ENSO under sustained warming beyond the 21st century. Nature Climate Change, 14(8), 815-822.`,
       abstract: ``,
@@ -184,33 +211,6 @@ const faPublicationsPageData = {
       github: "",
       writers: [],
     },      
-  ],
-  type_two_title: "Under Review",
-  type_two_items: [
-    {
-      title: `Peng, Q., Xie, S.-P., Miyamoto A., Deser, C., P. Zhang, & Luongo M., Unusual growth of the 2023-24 El Niño against the odds of Indo-Atlantic warming. Nature Geoscience (Accepted).`,
-      abstract: ``,
-      date: "",
-      link: "",
-      github: "",
-      writers: [],
-    },
-    {
-      title: `Luongo M., Xie, S.-P., Eisenman I., & Peng, Q.,. How the Subsurface Tropical Pacific Responds to Hemispherically Asymmetric Temperature Forcing: Implications for Cross-Equatorial Mass and Heat Transport. Journal of Climate (Minor revision).`,
-      abstract: ``,
-      date: "",
-      link: "",
-      github: "",
-      writers: [],
-    },
-   {
-      title: `Taylor, B. A., Shi, J.-R., Xie, S.-P., Talley, L. D., Luongo, M. T., & Peng, Q. (2024). Warming band in Southern Ocean’s Indian sector: The role of remote Atlantic buoyancy forcing via poleward-shifting circulation response. Journal of Climate (second review) `,
-      abstract: ``,
-      date: "",
-      link: "",
-      github: "",
-      writers: [],
-    },
   ],
   type_three_title: "",
   type_three_items: [],
