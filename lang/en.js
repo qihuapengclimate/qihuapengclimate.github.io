@@ -43,6 +43,14 @@ const enPublicationsPageData = {
       github: "",
       writers: [],
     },
+   {
+      title: `Cheng, L., Li G., ……, Peng, Q.,……, Ocean stratification in a warming climate. Nature Reviews Earth & Environment (Accepted).`,
+      abstract: ``,
+      date: "",
+      link: "",
+      github: "",
+      writers: [],
+    },
     {
       title: `Luongo M., Xie, S.-P., Eisenman I., & Peng, Q.,. How the Subsurface Tropical Pacific Responds to Hemispherically Asymmetric Temperature Forcing: Implications for Cross-Equatorial Mass and Heat Transport. Journal of Climate (Accepted).`,
       abstract: ``,
