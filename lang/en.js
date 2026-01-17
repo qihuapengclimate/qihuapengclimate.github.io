@@ -15,9 +15,9 @@ const enHomePageData = {
   home_title: "Bio",
   home_content: `
   <div>
-    <p>I am a postdoctoral researcher at Scripps Institution of Oceanography, UC San Diego. My academic journey began with a B.Sc. in Ocean Sciences from School of Geography and Ocean Science, Nanjing University (July 2013), leading to a Ph.D. in Physical Oceanography from the South China Sea Institute of Oceanology, Chinese Academy of Sciences (July 2019). Between 2016 and 2018, I conducted research as a joint Ph.D. student at Scripps Institution of Oceanography.</li> 
+    <p>I am a postdoctoral researcher at the Scripps Institution of Oceanography, University of California San Diego. I received my B.Sc. in Ocean Sciences from the School of Geography and Ocean Science at Nanjing University in July 2013 and my Ph.D. in Physical Oceanography from the South China Sea Institute of Oceanology, Chinese Academy of Sciences in July 2019. From 2016 to 2018, I was a joint Ph.D. student at Scripps Institution of Oceanography.</li> 
     <p>  </p>
-    I am interested in the climate dynamics, emphasizing tropical air-sea interactions, ocean current variability and their changes under global warming.  I typically employ a combination of observational data analysis, realistic numerical experiments, and diagnostic approaches to investigate these topics.
+    My research focuses on climate dynamics, with emphasis on tropical air–sea interactions, ocean current variability, and their responses to global warming. I use a combination of observational analyses, realistic numerical experiments, and diagnostic methods to investigate these topics.
     <h2 class='title'>  </h2>
     <p>  </p>
     <ul>
