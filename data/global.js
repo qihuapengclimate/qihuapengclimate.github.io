@@ -9,9 +9,9 @@ const navbarLinks = {
 const globalData = {
   image: "../files/qihua.jpg",
   resume: "",
-  enAddress: "Scripps Institution of Oceanography University of California, San Diego 9500 Gilman Drive, MC 206 La Jolla, CA 92093-0206",
-  faAddress: "Scripps Institution of Oceanography University of California, San Diego 9500 Gilman Drive, MC 206 La Jolla, CA 92093-0206",
-  email: "qihpeng@hotmail.com",
+  enAddress: "School of Atmospheric Sciences, Nanjing University, Nanjing 210023, China",
+  faAddress: "School of Atmospheric Sciences, Nanjing University, Nanjing 210023, China",
+  email: "qpeng@nju.edu.cn; qihpeng@hotmail.com",
   githubTitle: "My Curriculum Vitae",
   github: "../files/cv.pdf",
   twitterTitle: "Twitter",
