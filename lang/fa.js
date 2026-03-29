@@ -9,7 +9,7 @@ const faNavbarData = {
 
 const faHomePageData = {
   name: "  彭启华 ",
-  jobTitle: " 加州大学圣地亚哥斯克里普斯海洋研究所博士后 ",
+  jobTitle: " 南京大学大气科学学院",
   home_title: " 关于我 ",
   home_content: `
     <div>
