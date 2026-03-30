@@ -15,7 +15,7 @@ const enHomePageData = {
   home_title: "Bio",
   home_content: `
   <div>
-    <p>I am currently an Associate Professor at the School of Atmospheric Sciences, Nanjing University. Prior to this appointment, I worked as a postdoctoral researcher at the Scripps Institution of Oceanography, University of California San Diego. My research focuses on climate dynamics, with emphasis on tropical air–sea interactions, ocean current variability, and their responses to global warming. </li> 
+    <p>I am currently an Associate Professor at the School of Atmospheric Sciences, Nanjing University. Prior to this appointment, I worked as a postdoctoral researcher at the Scripps Institution of Oceanography, University of California San Diego. My research focuses on climate dynamics and physical oceanography, with emphasis on tropical air–sea interactions, ocean current variability, and their responses to global warming. </li> 
     <p>  </p>
     I am currently recruiting postdoctoral researchers, Ph.D. students, and master's students. Please feel free to contact me via email (qpeng@nju.edu.cn) if you are interested in joining our team.
     <h2 class='title'>Research Topics</h2>
