@@ -11,7 +11,7 @@ const enNavbarData = {
 // ---------- Home page data
 const enHomePageData = {
   name: " Qihua Peng ",
-  jobTitle: "School of Atmospheric Sciences, Nanjing University",
+  jobTitle: "Nanjing University",
   home_title: "Bio",
   home_content: `
   <div>
